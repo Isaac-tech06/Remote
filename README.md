@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo is for "GitHub" 'training'
+This repo is for **GitHub** *training*
 
 ## Location / Time
 
